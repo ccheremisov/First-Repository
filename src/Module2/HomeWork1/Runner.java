@@ -1,4 +1,4 @@
-package Module2;
+package Module2.HomeWork1;
 
 public class Runner {
     public static void main(String[] args) {

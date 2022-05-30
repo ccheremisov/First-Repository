@@ -1,6 +1,6 @@
-package Module2;
+package Module2.HomeWork1;
 
-public class Car extends Vehicle{
+public class Car extends Vehicle {
     private String audioSystem;
     private String conditioner;
 

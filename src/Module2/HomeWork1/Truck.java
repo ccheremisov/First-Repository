@@ -1,6 +1,6 @@
-package Module2;
+package Module2.HomeWork1;
 
-public class Truck extends Vehicle{
+public class Truck extends Vehicle {
     private int cargoWeight;
 
     public Truck(String engine, int countWheels, int year, String model, int cargoWeight) {
